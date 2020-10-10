@@ -9,5 +9,3 @@ if digit1 == digit2 or digit1 == digit3 or digit2 == digit3:
     print("Дві цифри збігаються")
 else: 
     print("Немає однакових цифр")
-
-
